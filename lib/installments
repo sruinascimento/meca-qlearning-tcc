@@ -1,0 +1,3 @@
+mvn install:install-file -Dfile=cst.jar -DgroupId=br.unicamp -DartifactId=cst -Dversion=1.4.0 -Dpackaging=jar
+
+mvn install:install-file -Dfile=wumpus-world-1.0-SNAPSHOT.jar -DgroupId=br.com.rsoft -DartifactId=wumpus-world -Dversion=1.0.0 -Dpackaging=jar
