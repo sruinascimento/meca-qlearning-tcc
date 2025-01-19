@@ -22,7 +22,7 @@ No modo treino, o agente será treinado com parâmetros fornecidos e gerará uma
 
 **Comando de execução**:
 ```bash
-java -jar meca-qlearning-1.0-SNAPSHOT-jar-with-dependencies.jar <alpha> <gamma> <epsilon> <epsilonDecay> <numberOfEpisodes> <caveName>
+djar meca-qlearning-1.0-SNAPSHOT-jar-with-dependencies.jar <alpha> <gamma> <epsilon> <epsilonDecay> <numberOfEpisodes> <caveName>
 ```
 
 **Exemplos**
