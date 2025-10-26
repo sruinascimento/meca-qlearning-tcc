@@ -25,4 +25,4 @@ mvn install:install-file -Dfile=cst.jar -DgroupId=br.unicamp -DartifactId=cst -D
 mvn install:install-file -Dfile=meca.jar -DgroupId=br.unicamp -DartifactId=meca -Dversion=0.6.0 -Dpackaging=jar
 ```
 
-Após instalar os comandos, basta executar a classe `AgentMind`
+Após instalar os comandos, basta executar a classe `AgentMind` e configurar os parâmetros como descrito np `README.md`.
